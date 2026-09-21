@@ -1,7 +1,7 @@
 # Hello, i'm Yasmim!
 
 
-Today i'm working at development and analysis of ambiental systems
+Today i'm working at development and analysis of ambiental systems <br>
 Learning: Python 🐍
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yasmimolv&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=yasmimolv&include_all_commits=true&theme=algolia)
