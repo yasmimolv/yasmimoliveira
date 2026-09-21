@@ -10,6 +10,8 @@ Learning: Python 🐍
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yasmimolv&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=yasmimolv&include_all_commits=true&theme=algolia)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=yasmimolv&langs_count=4&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=yasmimolv&langs_count=4&theme=algolia)
 
+
+<H2> Languages and Technologies </H2>
 <div>
 <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" size=40/>
 <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
