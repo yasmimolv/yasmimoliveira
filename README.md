@@ -1,7 +1,7 @@
 # Hello, i'm Yasmim! 🤓🖳
 
 I'm twenty two years old and recently graduated in Systems Analysis and Development and actualy gratuating in Ambiental and Sanitary Engineer. <br>
-Today i'm working at development and analysis of ambiental systems <br>
+Today i'm free to work at new projects <br>
 Learning: Python 🐍
 
 
