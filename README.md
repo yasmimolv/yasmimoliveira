@@ -17,3 +17,5 @@ Learning: Python 🐍
 <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
 </div>
+
+<div> 	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white </div>
